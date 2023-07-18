@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Missing German man's remains found in Thailand freezer",
+            "description": "The Pattaya-based businessman's dismembered body turned up after he had gone missing for a week.",
+            "url": "http://www.bbc.co.uk/news/world-asia-66172190",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/57C1/production/_130356422_gettyimages-641925028.jpg",
+            "publishedAt": "2023-07-12T10:07:18.9686276Z",
+            "content": "Thai authorities have found the dismembered body of a missing German businessman in a freezer.\r\nThe search for Hans-Peter Mack, 62, reached a tragic end on Monday night as police located his remains … [+1674 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Nato summit: Zelensky to meet Sunak after Ukraine membership row",
+            "description": "On day one of the Nato summit, Zelensky said delays in Ukraine's membership timeline were \"absurd\".",
+            "url": "http://www.bbc.co.uk/news/live/world-66140072",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-07-12T08:22:25.5623217Z",
+            "content": "Ukraine's President Volodymyr Zelensky is speaking to various Nato leaders today. \r\nHe's currently in a meeting with Prime Minister of Canada, Justin Trudeau, and is due to meet with UK PM Rishi Suna… [+759 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "The mega-strike that could take down Hollywood",
+            "description": "Actors prepare to join writers on the picket lines, shutting down TV and film productions.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66140336",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9ED9/production/_130356604_gettyimages-1351542459.jpg",
+            "publishedAt": "2023-07-12T07:22:18.4540275Z",
+            "content": "Hollywood's writers have been on strike for two months and soon the actors may join them, swapping the red carpet for the picket lines.\r\nThe Screen Actors Guild-American Federation of Television and … [+4329 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "BBC presenter row: Calls mount for BBC presenter facing allegations to name himself",
+            "description": "He says \"perfectly innocent colleagues\" are being falsely accused of involvement in the allegations.",
+            "url": "http://www.bbc.co.uk/news/live/uk-66159469",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-07-12T05:37:23.4383476Z",
+            "content": "Jeremy VineImage caption: Jeremy Vine\r\nVine, who hosts shows on BBC Radio 2 and Channel 5, has urged the unidentified presenter to come forward.\r\nHe said the\r\nlatest allegations would result in yet m… [+1112 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US Senator Tommy Tuberville changes course in 'white nationalism' row",
+            "description": "Senator Tommy Tuberville acknowledges \"white nationalists are racists\" after previously disputing the claim.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66171807",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1207F/production/_130355837_gettyimages-1520059453.jpg",
+            "publishedAt": "2023-07-12T02:22:14.5789003Z",
+            "content": "A US senator has acknowledged that \"white nationalists are racists\", changing course on his previous comments. \r\nIn a CNN interview this week, Tommy Tuberville of Alabama said it was \"some people's o… [+2186 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "North Korea fires intercontinental ballistic missile after threatening US",
+            "description": "The launch comes after Pyongyang accused the US military of repeated air incursions.",
+            "url": "http://www.bbc.co.uk/news/world-asia-66172284",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2ACB/production/_130355901_3d0f8b82d8f141e63cf8d7fec4a4615faea8b8a0.jpg",
+            "publishedAt": "2023-07-12T02:22:13.8447068Z",
+            "content": "North Korea has fired a suspected intercontinental ballistic missile (ICBM), Japanese officials report.\r\nThe long-range missile has been in flight for more than an hour and is expected to land short … [+712 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Trump loses immunity shield in E Jean Carroll defamation lawsuit",
+            "description": "Government lawyers say Mr Trump did not act within the scope of his duties when he disparaged E Jean Carroll.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66172116",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2A67/production/_130355801_ba3faf4f01d4ce09af852f7cfceb87a4046a5485.jpg",
+            "publishedAt": "2023-07-12T01:52:17.9375863Z",
+            "content": "Ex-President Donald Trump can be held liable for disparaging comments he made about a woman who accused him of rape, the US Department of Justice has said.\r\nThe department previously maintained Mr Tr… [+2141 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ex-Manson follower Leslie Van Houten released from prison after 53 years",
+            "description": "Leslie Van Houten was convicted in the 1969 slaying of a California couple alongside Charles Manson.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66171806",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3C5F/production/_130355451_gettyimages-52007993.jpg",
+            "publishedAt": "2023-07-12T01:07:22.09345Z",
+            "content": "Leslie Van Houten, a former follower of notorious cult leader Charles Manson, was released on parole after serving more than five decades of a life sentence for two brutal murders. \r\nMs Van Houten, 7… [+2869 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Jury rules document found in Aretha Franklin's couch is valid will",
+            "description": "A jury rules that a hand-written document found in Aretha Franklin's couch is a valid will to her estate.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66170679",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2B93/production/_130355111_gettyimages-139214601.jpg",
+            "publishedAt": "2023-07-11T20:07:20.3746333Z",
+            "content": "A Michigan jury has ruled that a 2014 document found in Aretha Franklin's couch after her death is a valid will to her multi-million dollar estate.\r\nA two-day trial pitted the late Queen of Soul's ch… [+1525 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US storms: 'All hands on deck' as floods deluge US north-east",
+            "description": "Crews from several US states converge on Vermont where towns have been cut off by the inundation.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66154757",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10651/production/_130335176_untitled.png",
+            "publishedAt": "2023-07-11T00:07:20.7655743Z",
+            "content": "Media caption, New York flooding: Footage shows submerged streets\r\nMore than 13 million people in the US north-east are under flood alerts as a deadly storm that has already caused widespread damage … [+3454 chars]"
+        }
+    ]
+}
